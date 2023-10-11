@@ -43,7 +43,11 @@
         "filename": "../../deploy-model-oci/deploy-model-oci.md"
       },
       {
-        "title": "Lab 9: Tear Down",
+        "title": "Lab 9: OML for Healthcare",
+        "filename": "../../oml-healthcare/oml-healthcare.md"
+      },
+      {
+        "title": "Lab 10: Tear Down",
         "filename": "../../teardown/teardown.md"
       },
       {
