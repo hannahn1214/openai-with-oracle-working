@@ -73,7 +73,7 @@ This lab assumes you have:
 
     ![](images/ssh.png " ")
 
-11. In the Boot volume section, configure the size and encryption options for the instance's boot volume. Select the **Specify a custom boot volume size** check box. Then, enter **100** as the **boot volume size (GB)**.
+11. In the Boot volume section, configure the size and encryption options for the instance's boot volume. Select the **Specify a custom boot volume size** check box. Then, enter **128** as the **boot volume size (GB)**.
 
     ![](images/boot.png " ")
 
@@ -188,10 +188,10 @@ After connecting to your instance, you will create a Conda environment and insta
     ![](images/nomic.png " ")
 
   	```
-    <copy>pip install pygpt4all</copy>
+    <copy>pip install gpt4all</copy>
     ```
 
-    ![](images/pygpt4all.png " ")
+    ![](images/gpt4all.png " ")
 
 5. Download the Groovy model
 
