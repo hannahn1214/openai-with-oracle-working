@@ -19,16 +19,19 @@
         "filename": "../../json/json.md"
       },
       {
-        "title": "Lab 3: OpenAI chat and OCI Vision Service: interpret health test results and recommended steps for everyday individuals",
-        "filename": "../../ocivision-openaichat/ocivision-openaichat.md"
+      "title": "Lab 3: Interpret and Advise on Health Test Results",
+      "description": "Use Cohere, Oracle Database, and OCI Vision to interpret and adivse on health test results.",
+      "filename": "../../lab_3_interpret_test_results/lab_3_interpret_test_results.md"
       },
       {
-        "title": "Lab 4: OpenAI image generation and OCI Speech Service: create webpages and storyboards using only voice commands for individuals with impaired motor control",
-        "filename": "../../ocivision-openaidalle/ocivision-openaidalle.md"
+      "title": "Lab 4: Create Storyboards with Your Voice",
+      "description": "Use Oracle Database, OCI Speech, and OpenAI to create storyboards with your voice.",
+      "filename": "../../lab_4_create_storyboard_with_voice/lab_4_create_storyboard_with_voice.md"
       },
       {
-        "title": "Lab 5: OpenAI conversation/chat and OCI Vision Service and OCI Speech Service: detect objects in an image and write a sentence using those objects, including sentiment generation and analysis as an educational tool",
-        "filename": "../../ocivision-ocispeech-openaichat/ocivision-ocispeech-openaichat.md"
+      "title": "Lab 5: Detect Objects in Images and Write Stories about Them",
+      "description": "Use Cohere, OCI Vision, and Oracle Database to detect objects present in an image and write a story about them.",
+      "filename": "../../lab_5_detect_objects_and_write_sentences/lab_5_detect_objects_and_write_sentences.md"
       },
       {
         "title": "Lab 6: Mixed Reality and Vision AI: the names of objects in a person's surroundings are spoken out to them from the spatial location where they are located for individuals that are hearing impaired or have Alzheimer’s",
